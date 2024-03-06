@@ -2,7 +2,7 @@
 ## 🚀 Sobre mim
 
 # Olá, eu sou o Kelvin! 👋
-Tenho 24 anos e sou residente em Belo Horizonte/MG. Atualmente, estou dedicando meu tempo ao ensino superior em Engenharia de Software.
+Tenho 24 anos e sou residente em Belo Horizonte/MG. Atualmente, estou dedicando meu tempo ao ensino superior em Sistemas de Informação.
 
 Desde jovem, nutro uma fascinação por computadores, e minha curiosidade sempre foi um grande impulso na minha jornada. Ao entrar em contato com a área de Tecnologia, decidi aprofundar meus conhecimentos em diversas áreas, com foco no Back-end em C#, Banco de dados SQL, e no Front-end, explorando ferramentas como CSS, HTML e Java Script. Além disso, venho aprimorando minhas habilidades em tecnologias modernas como TypeScript, React e Vite.js.
 
